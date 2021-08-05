@@ -886,6 +886,8 @@ button[type="submit"]:hover {
 .wordmark{
   vertical-align: sub;
   font-size: 30px;
+  font-family: 'ArchiveGaramondExp';
+   text-transform: uppercase;
 }
 
 
@@ -2181,4 +2183,12 @@ HEX:    DCC589
 
 #navbarNavAltMarkup {
   margin: 0 100px;
+}
+
+.margin-top-about {
+  margin-top: 700px;
+}
+
+.resource {
+  margin 1z
 }
